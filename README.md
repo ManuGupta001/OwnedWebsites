@@ -7,5 +7,5 @@
 <li>http://www.manugupta.comli.com -> A <strong>File uploading service</strong>, where students/teachers of our class could upload the files</li>Anyone can view them easily, just by heading to: http://www.manugupta.comli.com/uploaded_files/
 </ol>
 
-<h2>Due to Security Concerns (Database passwords and other Sensitive information) the sources files are not provided directly!
-If Interested, you can contact me to to view the source files of the above websites.</h2>
+<h2>Due to Security Concerns (Database passwords and other Sensitive information) the source files are not provided directly!
+If Interested, you can contact me to view the source files of the above websites.</h2>
